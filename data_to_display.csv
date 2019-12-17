@@ -1,0 +1,159 @@
+,title,subtitle,size_kb,usabilityRating,id,url
+0,Food.com Recipes and Interactions,Crawled data from Food.com (GeniusKitchen) online recipe aggregator,267MB,0.8235294117647058,shuyangli94/food-com-recipes-and-user-interactions,kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
+1,Sofia air quality dataset,Downloaded data from https://airsofia.info/ ,3GB,0.8823529411764706,hmavrodiev/sofia-air-quality-dataset,kaggle.com/hmavrodiev/sofia-air-quality-dataset
+13,Chest X-Ray Images (Pneumonia),"5,863 images, 2 categories",2GB,0.75,paultimothymooney/chest-xray-pneumonia,kaggle.com/paultimothymooney/chest-xray-pneumonia
+14,"Medical Speech, Transcription, and Intent",Audio utterances paired with text for common medical symptoms,5GB,0.7058823529411765,paultimothymooney/medical-speech-transcription-and-intent,kaggle.com/paultimothymooney/medical-speech-transcription-and-intent
+17,Artificial Lunar Landscape Dataset,Photorealistic images of the Moon's surface with ground truth rock segmentation,5GB,0.9117647058823528,romainpessia/artificial-lunar-rocky-landscape-dataset,kaggle.com/romainpessia/artificial-lunar-rocky-landscape-dataset
+28,Beehive Metrics,Sensors metrics of a bee community,27MB,0.8235294117647058,se18m502/bee-hive-metrics,kaggle.com/se18m502/bee-hive-metrics
+30,Lip Reading Image Dataset,MIRACL-VC1 is a lip-reading dataset including both depth and color images,10GB,0.625,apoorvwatsky/miraclvc1,kaggle.com/apoorvwatsky/miraclvc1
+31,Lip Reading Image Dataset,MIRACL-VC1 is a lip-reading dataset including both depth and color images,14GB,0.625,apoorvwatsky/miraclvc1,kaggle.com/apoorvwatsky/miraclvc1
+32,Segmentation of OCT images (DME),Optical coherence tomography (OCT) and diabetic macular edema (DME),340MB,0.625,paultimothymooney/chiu-2015,kaggle.com/paultimothymooney/chiu-2015
+35,Malaria Bounding Boxes,P. vivax (malaria) infected human blood smears,4GB,0.75,kmader/malaria-bounding-boxes,kaggle.com/kmader/malaria-bounding-boxes
+36,Helen Eye Dataset,Facial Feature Localization,438MB,0.625,kmader/helen-eye-dataset,kaggle.com/kmader/helen-eye-dataset
+37,Honey Bee pollen,High resolution images of individual bees on the ramp,20MB,0.7058823529411765,ivanfel/honey-bee-pollen,kaggle.com/ivanfel/honey-bee-pollen
+38,Labelled Faces in the Wild (LFW) Dataset,"Over 13,000 images of faces collected from the web",112MB,0.7647058823529411,jessicali9530/lfw-dataset,kaggle.com/jessicali9530/lfw-dataset
+44,Multidigit MNIST(M2NIST),MNIST of semantic segmentation.,17MB,0.75,farhanhubble/multimnistm2nist,kaggle.com/farhanhubble/multimnistm2nist
+45,Multidigit MNIST(M2NIST),MNIST of semantic segmentation.,43MB,0.75,farhanhubble/multimnistm2nist,kaggle.com/farhanhubble/multimnistm2nist
+49,ASL Alphabet Test,ASL Alphabet Images with a variety of backgrounds for validating a model,24MB,0.75,danrasband/asl-alphabet-test,kaggle.com/danrasband/asl-alphabet-test
+64,DDSM Mammography,tfrecords files of scans from the DDSM dataset,3GB,0.75,skooch/ddsm-mammography,kaggle.com/skooch/ddsm-mammography
+65,ASL Alphabet,Image data set for alphabets in the American Sign Language ,1GB,0.75,grassknoted/asl-alphabet,kaggle.com/grassknoted/asl-alphabet
+68,SciSpacy Pre-trained Models,Models related to using spaCy for scientific documents,987MB,0.625,paultimothymooney/scispacy-pretrained-models,kaggle.com/paultimothymooney/scispacy-pretrained-models
+73,LA County Restaurant Inspections and Violations,Environmental health inspections and violations in LA County restaurants,19MB,0.7058823529411765,meganrisdal/la-county-restaurant-inspections-and-violations,kaggle.com/meganrisdal/la-county-restaurant-inspections-and-violations
+97,Edible wild plants,Learn your trail food,766MB,0.6470588235294118,gverzea/edible-wild-plants,kaggle.com/gverzea/edible-wild-plants
+98,Edible wild plants,Learn your trail food,95MB,0.6470588235294118,gverzea/edible-wild-plants,kaggle.com/gverzea/edible-wild-plants
+99,Edible wild plants,Learn your trail food,49MB,0.6470588235294118,gverzea/edible-wild-plants,kaggle.com/gverzea/edible-wild-plants
+102,Protein Secondary Structure,Curated dataset for protein secondary structure prediction,39MB,0.8235294117647058,alfrandom/protein-secondary-structure,kaggle.com/alfrandom/protein-secondary-structure
+103,NIH DeepLesion Subset,"32,000 random images from the NIH DeepLesion Dataset",8GB,0.6764705882352942,kmader/nih-deeplesion-subset,kaggle.com/kmader/nih-deeplesion-subset
+106,Flower Color Images,Set for Classification,23MB,0.7058823529411765,olgabelitskaya/flower-color-images,kaggle.com/olgabelitskaya/flower-color-images
+107,Heart Disease and Stroke Prevention,Provides a comprehensive image for cardiovascular diseases & related prevention,26GB,0.7058823529411765,mazharkarimi/heart-disease-and-stroke-prevention,kaggle.com/mazharkarimi/heart-disease-and-stroke-prevention
+116,BLE RSSI Accelerometer Indoor Measurements,Indoor RSSI + accelerometer measurements with detailed location annotations,77MB,0.6875,byrnoo/ble-accelerometer-indoor-localisation-measurements,kaggle.com/byrnoo/ble-accelerometer-indoor-localisation-measurements
+128,30000+ healthcare jobs from eMedCareers (Europe),This dataset contains 30000 latest job postings in Europe from eMedCareers.,22MB,0.8235294117647058,jobspikr/30000-latest-healthcare-jobs-emedcareers-europe,kaggle.com/jobspikr/30000-latest-healthcare-jobs-emedcareers-europe
+150,Open Source Bee Hive Labeled Images,Data Submitted and Labeled by Beekeepers around the World,31MB,0.6470588235294118,jenny18/open-source-bee-hive-labeled-images,kaggle.com/jenny18/open-source-bee-hive-labeled-images
+151,Example brain mapping dataset,Which part of the brain is involved in moving your lips?,349MB,0.8235294117647058,chrisfilo/example-brain-mapping-dataset,kaggle.com/chrisfilo/example-brain-mapping-dataset
+169,EEG data from basic sensory task in Schizophrenia,Button press and auditory tone event related potentials from 81 human subjects,8GB,0.8235294117647058,broach/button-tone-sz,kaggle.com/broach/button-tone-sz
+172,Structural Protein Sequences,Sequence and meta data for various protein structures,27MB,0.8529411764705882,shahir/protein-data-set,kaggle.com/shahir/protein-data-set
+173,Structural Protein Sequences,Sequence and meta data for various protein structures,23MB,0.8529411764705882,shahir/protein-data-set,kaggle.com/shahir/protein-data-set
+175,Non-invasive Blood Pressure Estimation,Vital signals and reference blood pressure values acquired from 26 subjects.,77MB,0.75,mkachuee/noninvasivebp,kaggle.com/mkachuee/noninvasivebp
+181,Images of Canine Coccidiosis Parasite,Microscopy images of Isospora canis oocysts,36MB,0.75,kvinicki/canine-coccidiosis,kaggle.com/kvinicki/canine-coccidiosis
+182,Images of Canine Coccidiosis Parasite,Microscopy images of Isospora canis oocysts,3GB,0.75,kvinicki/canine-coccidiosis,kaggle.com/kvinicki/canine-coccidiosis
+191,Tappy Keystroke Data with Parkinson's Patients,Raw data used to predict the onset of Parkinson from typing tendencies,96MB,0.75,valkling/tappy-keystroke-data-with-parkinsons-patients,kaggle.com/valkling/tappy-keystroke-data-with-parkinsons-patients
+192,Hindi Health Dataset,HHD Corpus worthy for NLP tasks,338MB,0.8125,aijain/hindi-health-dataset,kaggle.com/aijain/hindi-health-dataset
+194,The BeeImage Dataset: Annotated Honey Bee Images,"Apis mellifera with location, date, health, and more labels",50MB,0.8235294117647058,jenny18/honey-bee-annotated-images,kaggle.com/jenny18/honey-bee-annotated-images
+207,Accidents in France from 2005 to 2016,Help prevent accidents.,40MB,0.7058823529411765,ahmedlahlou/accidents-in-france-from-2005-to-2016,kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016
+208,Flowers Recognition,This dataset contains labeled 4242 images of flowers. ,450MB,0.625,alxmamaev/flowers-recognition,kaggle.com/alxmamaev/flowers-recognition
+209,Flowers Recognition,This dataset contains labeled 4242 images of flowers. ,127MB,0.625,alxmamaev/flowers-recognition,kaggle.com/alxmamaev/flowers-recognition
+217,EEG-Alcohol,This data contains EEG correlates of genetic predisposition to alcoholism,287MB,0.7058823529411765,nnair25/Alcoholics,kaggle.com/nnair25/Alcoholics
+218,YouTube Faces With Facial Keypoints,Videos of Celebrity Faces with Facial Keypoints for each Image Frame,10GB,0.7941176470588235,selfishgene/youtube-faces-with-facial-keypoints,kaggle.com/selfishgene/youtube-faces-with-facial-keypoints
+219,YouTube Faces With Facial Keypoints,Videos of Celebrity Faces with Facial Keypoints for each Image Frame,509MB,0.7941176470588235,selfishgene/youtube-faces-with-facial-keypoints,kaggle.com/selfishgene/youtube-faces-with-facial-keypoints
+223,MIAS Mammography,Looking for breast cancer,312MB,0.75,kmader/mias-mammography,kaggle.com/kmader/mias-mammography
+224,Speech Accent Archive,Parallel English speech samples from 177 countries,865MB,0.7647058823529411,rtatman/speech-accent-archive,kaggle.com/rtatman/speech-accent-archive
+227,10 Monkey Species,Image dataset for fine-grain classification ,547MB,0.8125,slothkong/10-monkey-species,kaggle.com/slothkong/10-monkey-species
+228,10 Monkey Species,Image dataset for fine-grain classification ,162MB,0.8125,slothkong/10-monkey-species,kaggle.com/slothkong/10-monkey-species
+230,Blood Cell Images,"12,500 images: 4 different cell types",108MB,0.7058823529411765,paultimothymooney/blood-cells,kaggle.com/paultimothymooney/blood-cells
+241,To bee or not to bee?,Classifying bees on the fly,5GB,0.6875,jonathanbyrne/to-bee-or-not-to-bee,kaggle.com/jonathanbyrne/to-bee-or-not-to-bee
+245,Tweets Dataset for Detection of Cyber-Trolls,Tweets classified as aggressive or not to help fight trolls,58MB,0.75,dataturks/dataset-for-detection-of-cybertrolls,kaggle.com/dataturks/dataset-for-detection-of-cybertrolls
+247,Crowds Cure Cancer 2017,Using Crowd Sourcing to Find Tumors,9GB,0.6470588235294118,kmader/crowds-cure-cancer-2017,kaggle.com/kmader/crowds-cure-cancer-2017
+274,Retinal OCT Images (optical coherence tomography),"84,495 images, 4 categories",11GB,0.75,paultimothymooney/kermany2018,kaggle.com/paultimothymooney/kermany2018
+288,Pulmonary Chest X-Ray Abnormalities,Diagnose tuberculosis and other diseases from x-rays,4GB,0.625,kmader/pulmonary-chest-xray-abnormalities,kaggle.com/kmader/pulmonary-chest-xray-abnormalities
+293,Parkinson's Vision-Based Pose Estimation Dataset,Pose estimates of Parkinson's patients using deep learning,85MB,0.75,limi44/parkinsons-visionbased-pose-estimation-dataset,kaggle.com/limi44/parkinsons-visionbased-pose-estimation-dataset
+337,RSNA Bone Age,Predict Age from X-Rays,9GB,0.7058823529411765,kmader/rsna-bone-age,kaggle.com/kmader/rsna-bone-age
+338,RSNA Bone Age,Predict Age from X-Rays,146MB,0.7058823529411765,kmader/rsna-bone-age,kaggle.com/kmader/rsna-bone-age
+350,Open Sprayer images,A collection of broad leaved dock images for weed sprayer,564MB,0.75,gavinarmstrong/open-sprayer-images,kaggle.com/gavinarmstrong/open-sprayer-images
+352,Predict Molecular Properties,Help computational alchemy with machine learning!,91MB,0.875,burakhmmtgl/predict-molecular-properties,kaggle.com/burakhmmtgl/predict-molecular-properties
+396,Sentiment Lexicons for 81 Languages,Sentiment Polarity Lexicons (Positive vs. Negative),988MB,0.7647058823529411,rtatman/sentiment-lexicons-for-81-languages,kaggle.com/rtatman/sentiment-lexicons-for-81-languages
+461,The Works of Charles Darwin,Collected from Project Gutenberg [text],2GB,0.7058823529411765,fuzzyfroghunter/darwin,kaggle.com/fuzzyfroghunter/darwin
+462,1k Pharmaceutical Pill Image Dataset,Speckled pills CNN feature extracted for unique individual identification,14MB,0.75,trumedicines/1k-pharmaceutical-pill-image-dataset,kaggle.com/trumedicines/1k-pharmaceutical-pill-image-dataset
+464,Epicurious - Recipes with Rating and Nutrition,"Recipes from Epicurious by rating, nutritional content, and categories",11MB,0.7058823529411765,hugodarwood/epirecipes,kaggle.com/hugodarwood/epirecipes
+465,The Smell of Fear,Identification of markers for human emotions in breath,92MB,0.7058823529411765,jswicker/the-smell-of-fear,kaggle.com/jswicker/the-smell-of-fear
+470,Heartbeat Sounds,Classifying heartbeat anomalies from stethoscope audio,110MB,0.7647058823529411,kinguistics/heartbeat-sounds,kaggle.com/kinguistics/heartbeat-sounds
+482,Facial Expression of Emotion,Frame-by-frame analysis of facial expressions in a video interview,43MB,0.8235294117647058,sivlemx/facial-expression-of-emotion,kaggle.com/sivlemx/facial-expression-of-emotion
+491,HCC dataset,Hepatocellular Carcinoma Dataset,657MB,0.7647058823529411,mrsantos/hcc-dataset,kaggle.com/mrsantos/hcc-dataset
+517,CT Medical Images,CT images from cancer imaging archive with contrast and patient age,250MB,0.7647058823529411,kmader/siim-medical-images,kaggle.com/kmader/siim-medical-images
+518,Unimorph,Morphological annotation for 352 languages,205MB,0.6470588235294118,rtatman/unimorph,kaggle.com/rtatman/unimorph
+526,Alcohol and Drug Consumption of German Teens,Do modern teens prefer weed over cigarettes?,123MB,0.6470588235294118,fabiolabusch/alcohol-and-drug-consumption-of-german-teens,kaggle.com/fabiolabusch/alcohol-and-drug-consumption-of-german-teens
+528,Dengue Cases in the Philippines,"Monthly and Regional Cases of Dengue per 100,000 Population from 2008 to 2016",247MB,0.8235294117647058,grosvenpaul/dengue-cases-in-the-philippines,kaggle.com/grosvenpaul/dengue-cases-in-the-philippines
+535,Confused student EEG brainwave data,EEG data from 10 students watching MOOC videos,109MB,0.7941176470588235,wanghaohan/confused-eeg,kaggle.com/wanghaohan/confused-eeg
+539,Prescription-based prediction,Predicting doctor attributes from prescription behavior,29MB,0.75,roamresearch/prescriptionbasedprediction,kaggle.com/roamresearch/prescriptionbasedprediction
+562,High-Content Screening with C.Elegans,"A small, fully annotated dataset for getting starting with HCS analysis",130MB,0.6470588235294118,kmader/high-content-screening-celegans,kaggle.com/kmader/high-content-screening-celegans
+579,Circadian Rhythm in the Brain,Fluorescence signal from the circadian regulation region of the brain,1GB,0.6470588235294118,kmader/circadian-rhythm-in-the-brain,kaggle.com/kmader/circadian-rhythm-in-the-brain
+593,California DDS Expenditures,Exploring Simpson's Paradox,85MB,0.7058823529411765,wduckett/californiaddsexpenditures,kaggle.com/wduckett/californiaddsexpenditures
+595,Indoor Positioning,Dataset of bluetooth beacons readings indoor,49MB,0.8235294117647058,liwste/indoor-positioning,kaggle.com/liwste/indoor-positioning
+706,"Structural MRI Datasets (T1, T2, FLAIR etc.)",Coursera NeuroHacking in R course datasets,189MB,0.625,ilknuricke/neurohackinginrimages,kaggle.com/ilknuricke/neurohackinginrimages
+707,"Structural MRI Datasets (T1, T2, FLAIR etc.)",Coursera NeuroHacking in R course datasets,306MB,0.625,ilknuricke/neurohackinginrimages,kaggle.com/ilknuricke/neurohackinginrimages
+708,"Structural MRI Datasets (T1, T2, FLAIR etc.)",Coursera NeuroHacking in R course datasets,26MB,0.625,ilknuricke/neurohackinginrimages,kaggle.com/ilknuricke/neurohackinginrimages
+718,Drosophila Melanogaster Genome,Explore the annotated genome of the common fruit fly,130MB,0.9705882352941176,mylesoneill/drosophila-melanogaster-genome,kaggle.com/mylesoneill/drosophila-melanogaster-genome
+719,Drosophila Melanogaster Genome,Explore the annotated genome of the common fruit fly,25MB,0.9705882352941176,mylesoneill/drosophila-melanogaster-genome,kaggle.com/mylesoneill/drosophila-melanogaster-genome
+723,Cancer Inhibitors,Predict small molecules' activity targeting  protein kinase,104MB,0.7647058823529411,xiaotawkaggle/inhibitors,kaggle.com/xiaotawkaggle/inhibitors
+745,unet-starter-model-file,Unet-Resnet18 model weights,152MB,0.9375,rishabhiitbhu/unetstartermodelfile,kaggle.com/rishabhiitbhu/unetstartermodelfile
+753,torchvision.models.partial1,A selection of models from the torchvision model zoo,922MB,0.625,jtbontinck/torchvisionmodelspartial1,kaggle.com/jtbontinck/torchvisionmodelspartial1
+757,siim-acr-pneumothorax-segmentation.zip dataset,Complete Dataset (DICOM + PNG + Label),15GB,0.7058823529411765,anisayari/siimacrpneumothoraxsegmentationzip-dataset,kaggle.com/anisayari/siimacrpneumothoraxsegmentationzip-dataset
+766,Finetuned BERT for Jigsaw Toxicity Classification,A Finetuned BERT Model for Jigsaw Unintended Bias in Toxicity Classification,776MB,0.6875,yetman/finetuned-bert-for-jigsaw-toxicity-classification,kaggle.com/yetman/finetuned-bert-for-jigsaw-toxicity-classification
+772,Aptos2019-trained-denset,DenseNet Trained with 2015 and 2019 competition data,72MB,0.7647058823529411,raimonds1993/aptos2019traineddenset,kaggle.com/raimonds1993/aptos2019traineddenset
+773,Resized 2015 & 2019 Blindness Detection Images,Resized & Cropped Images from the Blindness & Diabetic Retinopathy Competitions,17GB,0.7058823529411765,benjaminwarner/resized-2015-2019-blindness-detection-images,kaggle.com/benjaminwarner/resized-2015-2019-blindness-detection-images
+775,EfficientNets Weights,"Pretrained Checkpoints for EfficientNets (B0, B1, B2, B3)",495MB,0.75,xhlulu/efficientnets-weights,kaggle.com/xhlulu/efficientnets-weights
+783,ResNet152_keras_weights,keras weights for ResNet152,421MB,0.625,zmoustafa/resnet152-keras-weights,kaggle.com/zmoustafa/resnet152-keras-weights
+788,PlantVillage Dataset Gray 224*224 (50 each),Original Dataset https://github.com/spMohanty/PlantVillage-Dataset,157MB,0.75,bulentsiyah/plantvillage,kaggle.com/bulentsiyah/plantvillage
+789,Brain MRI segmentation,Brain MRI images together with manual FLAIR abnormality segmentation masks,714MB,0.8235294117647058,mateuszbuda/lgg-mri-segmentation,kaggle.com/mateuszbuda/lgg-mri-segmentation
+790,EfficientNet PyTorch,Pre-trained EfficientNet models (B0-B7) for PyTorch,688MB,0.75,hmendonca/efficientnet-pytorch,kaggle.com/hmendonca/efficientnet-pytorch
+791,MobileNet v2 Keras Weights,Official Weights for the Keras version of MobileNet v2,315MB,0.8125,xhlulu/mobilenet-v2-keras-weights,kaggle.com/xhlulu/mobilenet-v2-keras-weights
+792,Humpback Whale Identification Model Files,The model file with score=0.78563,21MB,0.875,martinpiotte/humpback-whale-identification-model-files,kaggle.com/martinpiotte/humpback-whale-identification-model-files
+796,TCGA COAD MSI vs MSS Prediction (JPG),"Tiles of WSI of colorectal cancer (COAD), FFPE samples",11GB,0.8125,joangibert/tcga_coad_msi_mss_jpg,kaggle.com/joangibert/tcga_coad_msi_mss_jpg
+799,Humpback Whale Fluke Keypoints,"Keypoints To Aide in Fluke alignment, scaling and segmentation",335MB,0.625,oewyn000/humpback-whale-fluke-keypoints,kaggle.com/oewyn000/humpback-whale-fluke-keypoints
+801,Blur dataset,This dataset contains 1050 blurred and sharp images (350 triplets),1GB,0.875,kwentar/blur-dataset,kaggle.com/kwentar/blur-dataset
+827,PlantVillage Dataset,Dataset of diseased plant leaf images and corresponding labels,4GB,0.6875,xabdallahali/plantvillage-dataset,kaggle.com/xabdallahali/plantvillage-dataset
+829,Freesound-Audio-Tagging-2019-ebouteillon-solution,Eric Bouteillon solution to Freesound-Audio-Tagging-2019,2GB,0.875,ebouteillon/freesoundaudiotagging2019ebouteillonsolution,kaggle.com/ebouteillon/freesoundaudiotagging2019ebouteillonsolution
+830,resnet-50-trained-with-aptos-old-data-set,ResNet50 trained on the old and new data set for APTOS ,265MB,0.6875,vikasmalhotra08/resnet50trainedwithaptosolddataset,kaggle.com/vikasmalhotra08/resnet50trainedwithaptosolddataset
+833,KIMIA_Path_960,Pathology Images: KIMIA Path960,247MB,0.75,ambarish/kimia-path-960,kaggle.com/ambarish/kimia-path-960
+836,Diabetic Rateinopathy Resized ,Google Diabetic Rateinopathy  ,391MB,0.6470588235294118,sohaibanwaar1203/diabetic-rateinopathy-full,kaggle.com/sohaibanwaar1203/diabetic-rateinopathy-full
+853,MIT-BIH Arrhythmia Database,de Chazal Class Labels,26MB,0.8235294117647058,alexandrefarb/mitbih-arrhythmia-database-de-chazal-class-labels,kaggle.com/alexandrefarb/mitbih-arrhythmia-database-de-chazal-class-labels
+889,Skin Cancer ISIC,The skin cancer data. Contains 9 classes of skin cancer.,2GB,0.6875,nodoubttome/skin-cancer9-classesisic,kaggle.com/nodoubttome/skin-cancer9-classesisic
+896,Jigsaw Bias Toxicity EDA NLP aug16 alpha0.05,Augmented Training Dataset for Jigsaw Unintended Bias in Toxicity Classification,1GB,0.625,yeayates21/jigsaw-bias-toxicity-eda-nlp-aug16-alpha005,kaggle.com/yeayates21/jigsaw-bias-toxicity-eda-nlp-aug16-alpha005
+903,yolo-coco-data,Weights and Configuration to use with YOLO 3,220MB,1.0,valentynsichkar/yolo-coco-data,kaggle.com/valentynsichkar/yolo-coco-data
+912,Plant segmentation,A semantic segmentation dataset with several distinct plant species,1GB,0.75,tivadardanka/plant-segmentation,kaggle.com/tivadardanka/plant-segmentation
+915,PyTorch_pretrained_models,,345MB,0.625,gennadylaptev/pytorch-pretrained-models,kaggle.com/gennadylaptev/pytorch-pretrained-models
+924,Birds' Songs Numeric Dataset,Avian Iris for Beginners,25MB,0.8235294117647058,fleanend/birds-songs-numeric-dataset,kaggle.com/fleanend/birds-songs-numeric-dataset
+929,APTOS2019 - 10K Augmented Images ,10K Augmented Images to detect diabetic retinopathy severity.,3GB,0.75,aitude/aptos-augmented-images,kaggle.com/aitude/aptos-augmented-images
+930,Biometrics for stress monitoring,the influence of person-specific stress predictive models,5GB,0.6470588235294118,qiriro/stress,kaggle.com/qiriro/stress
+932,MiBand-2-pulse,MiBand 2 pulse 07.06.2017 - 11.08.2018,25MB,0.7941176470588235,oscypx/miband2pulse,kaggle.com/oscypx/miband2pulse
+948,Third Eye Data: TV News Archive chyrons,"Chyrons from BBC News, CNN, Fox News, and MSNBC",44MB,0.7058823529411765,ceshine/third-eye-data-tv-news-archive-chyrons,kaggle.com/ceshine/third-eye-data-tv-news-archive-chyrons
+956,Chest Xray Masks and Labels ,Pulmonary Chest X-Ray Defect Detection ,10GB,0.75,nikhilpandey360/chest-xray-masks-and-labels,kaggle.com/nikhilpandey360/chest-xray-masks-and-labels
+959,SWELL dataset,Heart Rate Variability (HRV) dataset for research on stress and user modeling,233MB,0.7058823529411765,qiriro/swell-heart-rate-variability-hrv,kaggle.com/qiriro/swell-heart-rate-variability-hrv
+962,EEG data for Mental Attention State Detection,"Mental attention states of human individuals (focused, unfocused and drowsy)",557MB,0.625,inancigdem/eeg-data-for-mental-attention-state-detection,kaggle.com/inancigdem/eeg-data-for-mental-attention-state-detection
+980,Muscle activity + Motion capture of a hand,Find how neural activity produces movement,39MB,0.8235294117647058,kyr7plus/myo-emg-leap-motion-capture,kaggle.com/kyr7plus/myo-emg-leap-motion-capture
+987,EEG brainwave dataset: mental state ,"Relaxed, Neutral, and Concentrating brainwave data",50MB,0.8235294117647058,birdy654/eeg-brainwave-dataset-mental-state,kaggle.com/birdy654/eeg-brainwave-dataset-mental-state
+990,MRIQC WebAPI - Database snapshot,Quality Control metrics of Magnetic Resonance images of the human brain,594MB,0.6470588235294118,chrisfilo/mriqc,kaggle.com/chrisfilo/mriqc
+999,"Quick, Draw! Model Weights for Doodle Recognition",Weights for the CNN Model,374MB,0.6470588235294118,olgabelitskaya/quick-draw-model-weights-for-doodle-recognition,kaggle.com/olgabelitskaya/quick-draw-model-weights-for-doodle-recognition
+1002,Multiview Hand Pose,Large-scale Multiview 3D Hand Pose Dataset,28GB,0.6875,kmader/multiview-hand-pose,kaggle.com/kmader/multiview-hand-pose
+1012,Muscle activity + Motion capture of a hand,Find how neural activity produces movement,39MB,0.8235294117647058,kyr7plus/myo-emg-leap-motion-capture,kaggle.com/kyr7plus/myo-emg-leap-motion-capture
+1015,MRIQC WebAPI - Database snapshot,Quality Control metrics of Magnetic Resonance images of the human brain,594MB,0.6470588235294118,chrisfilo/mriqc,kaggle.com/chrisfilo/mriqc
+1016,MRIQC WebAPI - Database snapshot,Quality Control metrics of Magnetic Resonance images of the human brain,594MB,0.6470588235294118,chrisfilo/mriqc,kaggle.com/chrisfilo/mriqc
+1020,EEG brainwave dataset: mental state ,"Relaxed, Neutral, and Concentrating brainwave data",50MB,0.8235294117647058,birdy654/eeg-brainwave-dataset-mental-state,kaggle.com/birdy654/eeg-brainwave-dataset-mental-state
+1021,RMU Dissertation - Source Data Files,Healthcare Data Analytics,99MB,0.7352941176470589,wcj365/rmudsc,kaggle.com/wcj365/rmudsc
+1046,RMU Dissertation - Source Data Files,Healthcare Data Analytics,99MB,0.7352941176470589,wcj365/rmudsc,kaggle.com/wcj365/rmudsc
+1050,Hello_World_Deep_Learning_SIIM,Selection of chest and abdominal radiographs (x-rays) from the OpenI database,27MB,0.75,wfwiggins203/hello-world-deep-learning-siim,kaggle.com/wfwiggins203/hello-world-deep-learning-siim
+1055,Clinical Trials on Cancer,Labeled and processed eligibility criteria for text classification,39MB,0.7647058823529411,auriml/eligibilityforcancerclinicaltrials,kaggle.com/auriml/eligibilityforcancerclinicaltrials
+1066,Predict Mortality/Death Rate.,770k records & 121 variables of unit level survey data collected from 9 States.,57MB,0.7647058823529411,rajanand/mortality,kaggle.com/rajanand/mortality
+1067,"Clinical, Anthropometric & Bio-Chemical Survey",1.89m records & 53 variables of unit level annual health survey data from India.,50MB,0.8529411764705882,rajanand/cab-survey,kaggle.com/rajanand/cab-survey
+1069,Hierarchical clustering of 7 Million Proteins,NCBI protein data clustered by similarity using Machine Learning Algorithm,31MB,0.8125,rajasankar/hierarchical-clustering-of-7-million-proteins,kaggle.com/rajasankar/hierarchical-clustering-of-7-million-proteins
+1074,FCN Trained on DDSM Images,,354MB,0.625,skooch/fcn-trained-on-ddsm-images,kaggle.com/skooch/fcn-trained-on-ddsm-images
+1082,Mushrooms classification - Common genus's images,,2GB,0.625,maysee/mushrooms-classification-common-genuss-images,kaggle.com/maysee/mushrooms-classification-common-genuss-images
+1089,Hello_World_Deep_Learning_SIIM,Selection of chest and abdominal radiographs (x-rays) from the OpenI database,27MB,0.75,wfwiggins203/hello-world-deep-learning-siim,kaggle.com/wfwiggins203/hello-world-deep-learning-siim
+1096,word2vec reddit medication model,,41MB,0.625,amalinow/word2vec-reddit-medication-model,kaggle.com/amalinow/word2vec-reddit-medication-model
+1099,Muscle activity + Motion capture of a hand,Find how neural activity produces movement,39MB,0.8235294117647058,kyr7plus/myo-emg-leap-motion-capture,kaggle.com/kyr7plus/myo-emg-leap-motion-capture
+1113,BosLab Backyard Microbiome,BosLab analyzes local soil samples; runs NextGen (?) Seq to I.D. microbiome,2GB,0.7058823529411765,stillsut/boslab-backyard-microbiome,kaggle.com/stillsut/boslab-backyard-microbiome
+1114,EEG Brainwave Dataset: Feeling Emotions ,Positive and Negative emotional experiences captured from the brain,12MB,0.6470588235294118,birdy654/eeg-brainwave-dataset-feeling-emotions,kaggle.com/birdy654/eeg-brainwave-dataset-feeling-emotions
+1116,UK Gender Pay Gap data 2018,Data about  gender pay gap of UK employers with above 250 employees,203MB,0.7058823529411765,linavrgd/uk-pay-gap-data-2018,kaggle.com/linavrgd/uk-pay-gap-data-2018
+1121,"Quick, Draw! Model Weights for Doodle Recognition",Weights for the CNN Model,374MB,0.6470588235294118,olgabelitskaya/quick-draw-model-weights-for-doodle-recognition,kaggle.com/olgabelitskaya/quick-draw-model-weights-for-doodle-recognition
+1122,VizWiz,Answering Visual Questions from Blind People,29GB,0.6875,ingbiodanielh/vizwiz,kaggle.com/ingbiodanielh/vizwiz
+1124,Keras-Seedlings,Keras Ready Plants for Your Classifier,3GB,0.6875,jannesklaas/kerasseedlings,kaggle.com/jannesklaas/kerasseedlings
+1132,Static Analysis of Android benign apps of 2017,Over 4300 benign apps statically analyzed,148MB,0.625,goorax/static-analysis-of-android-benign-apps-of-2017,kaggle.com/goorax/static-analysis-of-android-benign-apps-of-2017
+1144,Labeled Surgical Tools and Images,"3009 images, detection and occlusion labels, 4 classes of cleaned surgical tools",734MB,0.7058823529411765,dilavado/labeled-surgical-tools,kaggle.com/dilavado/labeled-surgical-tools
+1160,Pytorch Pretrained Models,"ResNeXt, wide ResNet, Inception",1GB,0.625,iafoss/pytorch-pretrained-models,kaggle.com/iafoss/pytorch-pretrained-models
+1169,Trp-Cage Dihedrals,1.5 million protein conformations from a molecular dynamics simulation,137MB,0.7647058823529411,tobiasle/trp-cage-dihedrals,kaggle.com/tobiasle/trp-cage-dihedrals
+1178,EEG Brainwave Dataset: Feeling Emotions ,Positive and Negative emotional experiences captured from the brain,12MB,0.6470588235294118,birdy654/eeg-brainwave-dataset-feeling-emotions,kaggle.com/birdy654/eeg-brainwave-dataset-feeling-emotions
+1183,UK Gender Pay Gap data 2018,Data about  gender pay gap of UK employers with above 250 employees,203MB,0.7058823529411765,linavrgd/uk-pay-gap-data-2018,kaggle.com/linavrgd/uk-pay-gap-data-2018
+1184,Plastic Recycling Codes,7 plastics of Resin Identification Coding System (RIC) in pictures,134MB,0.75,piaoya/plastic-recycling-codes,kaggle.com/piaoya/plastic-recycling-codes
+1191,Nuclei Segmentation In Microscope Cell Images,A collection of segmentation datasets used to achieve 10th place in DSB 2018,371MB,0.6470588235294118,gangadhar/nuclei-segmentation-in-microscope-cell-images,kaggle.com/gangadhar/nuclei-segmentation-in-microscope-cell-images
+1194,US Foreign Aid,US Foreign aid dataset,58MB,0.6176470588235294,vinayshanbhag/us-foreign-aid,kaggle.com/vinayshanbhag/us-foreign-aid
+1197,Insect Sound for Classification,Clustering and Classification on Insect Sound,11MB,0.75,heuristicsoft/insect-sound-for-classification,kaggle.com/heuristicsoft/insect-sound-for-classification
+1198,Insect Sound for Clustering Testing,Clustering insect sound - Testing,11MB,0.75,heuristicsoft/insect-sound-for-clustering-testing,kaggle.com/heuristicsoft/insect-sound-for-clustering-testing
